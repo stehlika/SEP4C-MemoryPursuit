@@ -9,7 +9,7 @@ Chosen approach results in a game where the user is asked to remember a sequence
 
 ## Video link
 
-[YouTube video] (https://youtu.be/pVR3yK4YsYQ) - Video preview of project. 
+[YouTube video](https://youtu.be/pVR3yK4YsYQ) - Video preview of project. 
 
 ## Built With
 
