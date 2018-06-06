@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 5de4c8ef25035457b8e7124a5d0720ef
+  - enabled: 1
+    path: Assets/Scenes/RememberScene.unity
+    guid: c01d4518ba4424d4d896dfb9bcbe5d1d
+  - enabled: 1
+    path: Assets/Scenes/DistractionScene.unity
+    guid: e914eea25b5c6488aaa88786efa7bed1
+  - enabled: 1
+    path: Assets/Scenes/DistractOrderNumbersScene.unity
+    guid: 06242f3f0af214f63ad346d8697426b8
+  - enabled: 1
+    path: Assets/Scenes/VerificationScene.unity
+    guid: 664c93a8cf6cc48589acdc1d152800e9
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/QuestionsDistractionScene.unity
+    guid: 098dffa5c4addbe45bd97262b5dbbfe7
+  m_configObjects: {}
