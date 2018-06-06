@@ -11,6 +11,10 @@ Chosen approach results in a game where the user is asked to remember a sequence
 
 [YouTube video](https://youtu.be/pVR3yK4YsYQ) - Video preview of project. 
 
+## GitHub link
+
+[SEP4C-MemoryPursuit](https://github.com/stehlika/SEP4C-MemoryPursuit) - GitHubProject.
+
 ## Built With
 
 * [UI Tween](https://assetstore.unity.com/packages/tools/animation/ui-tween-38583) - UI framework
