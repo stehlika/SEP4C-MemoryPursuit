@@ -9,7 +9,7 @@ Chosen approach results in a game where the user is asked to remember a sequence
 
 ## Video link
 
-[YouTube video] () - Video preview of project. 
+[YouTube video] (https://youtu.be/pVR3yK4YsYQ) - Video preview of project. 
 
 ## Built With
 
@@ -20,8 +20,6 @@ Chosen approach results in a game where the user is asked to remember a sequence
 https
 * **Adam Stehlik** - *Group memeber* - [stehlika](https://github.com/stehlika)
 * **Libor Start** - *Group memeber* - [libcoo](https://github.com/libcoo)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
